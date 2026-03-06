@@ -18,7 +18,7 @@
   "theme_color": "#000000",
   
     "_comment6": "orientación del juego",
-  "orientation": "landscape",
+  "orientation": "portrait",
   
   "icons": [
     {
@@ -32,4 +32,5 @@
       "type": "image/png"
     }
   ]
+
 }
